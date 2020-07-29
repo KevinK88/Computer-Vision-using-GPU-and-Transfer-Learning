@@ -12,6 +12,7 @@
 - Had a Dense layer with 512 neurons and a Dropout layer with a probability of 50% to drop a neuron.
 
 # Result 
+
 ##Wihtout transfer model:
 
 [![Screen-Shot-2020-07-28-at-8-15-42-PM.png](https://i.postimg.cc/9QZ9WNHQ/Screen-Shot-2020-07-28-at-8-15-42-PM.png)](https://postimg.cc/cv1ChhJp)
